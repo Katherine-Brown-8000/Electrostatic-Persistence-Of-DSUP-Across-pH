@@ -45,7 +45,7 @@ All the files used to generate these images have been shared in the file ()
  - 6 All figure generated in ChimeraX were then open in GIMP for side by side comparisons and labeling.
 
 ## Confidence of DSUP from AlphaFold 3:
-![Alt](DSUP confidence from AlphaFold3.png)
+![Alt]([DSUP confidence from AlphaFold3.png](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP%20confidence%20from%20AlphaFold3.png))
 
 ## Programs and websites used were:
  - [AlphaFold3](https://alphafoldserver.com/welcome)
