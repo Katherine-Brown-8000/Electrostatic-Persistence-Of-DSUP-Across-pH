@@ -44,6 +44,8 @@ All the files used to generate these images have been shared in the file ()
  - 5 Load both the .pqr and .dx files into ChimeraX to visualize and export electrostatic surfaces for each pH condition.
  - 6 All figure generated in ChimeraX were then open in GIMP for side by side comparisons and labeling.
 
+## Confidence of DSUP from AlphaFold 3:
+![Alt](DSUP confidence from AlphaFold3.png)
 
 ## Programs and websites used were:
  - [AlphaFold3](https://alphafoldserver.com/welcome)
