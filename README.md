@@ -5,7 +5,7 @@ Methodology:
 - [Calculate pI for DSUP](Calculate-isoelectric-point/)
 - [Generating a plot for DSUP Net Charge vs. pH](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/tree/main/Net-charge-plot)
 - [DSUP electrostatic potential diagram](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/tree/main/DSUP%20electrostatic%20potential%20diagram)
-- [Jump to Confidence of DSUP from AlphaFold 3](## Confidence of DSUP from AlphaFold 3:)
+- [Jump to Confidence of DSUP from AlphaFold 3](##Confidence_of_DSUP_from_AlphaFold_3:)
 - Net charge vs pH
 - MD simulations
 - Disorder prediction
@@ -45,7 +45,7 @@ All the files used to generate these images have been shared in the file ()
  - 5 Load both the .pqr and .dx files into ChimeraX to visualize and export electrostatic surfaces for each pH condition.
  - 6 All figure generated in ChimeraX were then open in GIMP for side by side comparisons and labeling.
 
-## Confidence of DSUP from AlphaFold 3:
+##Confidence_of_DSUP_from_AlphaFold_3:
 ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP%20confidence%20from%20AlphaFold3.png)
  - High cofidence (pIDDT > 90) colored Dark Blue (Saddly not present in this figure).
  - Confidence (90 > pIDDT > 70) colored Light Blue
