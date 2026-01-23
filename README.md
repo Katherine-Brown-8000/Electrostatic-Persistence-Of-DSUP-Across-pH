@@ -47,6 +47,11 @@ All the files used to generate these images have been shared in the file ()
 
 ## Confidence of DSUP from AlphaFold 3:
 ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP%20confidence%20from%20AlphaFold3.png)
+ - High cofidence (pIDDT > 90) colored Dark Blue (Saddly not present in this figure).
+ - Confidence (90 > pIDDT > 70) colored Light Blue
+ - Low (70 > pIDDT > 50) colored in yellow
+ - Very low (pIDDT < 50) Colored in orenge
+
 
 ## Programs and websites used were:
  - [AlphaFold3](https://alphafoldserver.com/welcome)
