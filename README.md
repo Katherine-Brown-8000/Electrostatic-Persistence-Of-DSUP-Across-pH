@@ -27,7 +27,7 @@ The protein sequence used for DSUP comes from the NIH
 
 
 ## DSUP electrostatic potential diagram
-![Alt]([https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP_config_figure_1.png](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/Figure1_redo_Finished.png))
+![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/Figure1_redo_Finished.png)
 This figure was generated using ChimeraX from the DSUP files for pH 5.5, 7.4 and 11.5
 All the files used to generate these images have been shared in the file ()
 - A) is DSUP at pH 5.5 (Acidic conditions)
