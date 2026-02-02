@@ -39,6 +39,8 @@ All the files used to generate these images have been shared in the file ()
 
 ### Previous version of the Figure
  ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/Figure1_redo_Finished.png)
+ ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP_config_figure_1.png)
+ DSUP_config_figure_1.png
 
   ### Intructions for Generating the DSUP diagram depicted above
 
