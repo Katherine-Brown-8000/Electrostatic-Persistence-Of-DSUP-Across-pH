@@ -38,7 +38,6 @@ All the files used to generate these images have been shared in the file ()
 - F) is DSUP at Physiological pH 7.4 with overlap of the isoelectric point 9.76
 
 ### Previous version of the Figure
- Figure_2A_to_2F_Labled.png
  ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/Figure1_redo_Finished.png)
 
   ### Intructions for Generating the DSUP diagram depicted above
