@@ -62,6 +62,11 @@ All the files used to generate these images have been shared in the file ()
  - 5 Load both the .pqr and .dx files into ChimeraX to visualize and export electrostatic surfaces for each pH condition.
  - 6 All figure generated in ChimeraX were then open in GIMP for side by side comparisons and labeling.
 
+## Figure 3: MD Analysis
+![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/Figure_3_Complete.png)
+
+
+
 ## Confidence of DSUP from AlphaFold 3:
 ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP%20confidence%20from%20AlphaFold3.png)
  - High cofidence (pIDDT > 90) colored Dark Blue (Saddly not present in this figure).
